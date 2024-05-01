@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Dukkering
 - 👀 I’m interested in learning whatever I can get my hands on
-- 🌱 I’m currently learning Java for BackEnd work and JavaScript for FrontEnd Work
+- 🌱 I’m currently focusing on Java for BackEnd work
 - 📫 How to reach me - dukkering@gmail.com
 - 😄 Pronouns: He/Him - They/Them
 - ⚡ Fun fact: There are species of jellyfish that, save for illness or injury, are functionally immortal.
